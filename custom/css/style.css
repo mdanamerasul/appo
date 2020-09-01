@@ -1,0 +1,174 @@
+
+.pf-header{
+	background-color: #223047;
+	border-bottom-color: #4e596c!important;
+}
+.pf-navbar-custom{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.pf-nav-brand-custom{
+	padding-top: 17px;
+	padding-bottom: 17px;
+}
+.nav-item a{
+	color: white !important;
+}
+.nav-item a:hover, .nav-item a:focus{
+	background-color: white;
+	color: blue !important;
+}
+.pf-header-btn{
+	color: #223047;
+	background-color: #00fff0;
+	font-size: 14px;
+	line-height: 40px;
+	padding-left: 35px;
+	padding-right: 35px;
+}
+.pf-banner-1{
+	min-height: 630px;
+	background: url(../../images/banner.gif) center	center/cover no-repeat;
+}
+.pf-banner-content{
+	margin: 110px 0;
+	padding-top: 90px;
+}
+.pf-banner-content h3{
+	font-size: 40px;
+	color: #ffffff;
+}
+.pf-banner-content-p{
+	padding: 60px 0;
+	font-size: 14px;
+	color: #97a4be;
+}
+.pf-banner-content-position{
+	right: 0px;
+	top: 150px;
+	z-index: 99;
+}
+.pf-service-title{
+	padding-top: 210px;
+}
+.pf-service-content{
+	padding-top: 130px;
+	padding-bottom: 130px;
+}
+.pf-service-content-icon{
+	padding-bottom: 50px;
+}
+.pf-com-info{
+	background-color: #f5f6fa;
+}
+.pf-com-info-text{
+	background-color: #f5f6fa;
+}
+.pf-app-presentation-top{
+	padding-top: 125px;
+	padding-bottom: 125px;
+	background-color: #ffffff;
+}
+.pf-app-present-btn{
+	background-color: #00fff0;
+}
+.pf-app-presentation-middle{
+	padding-bottom: 50px;
+	background-color: #ffffff;
+}
+.pf-app-presentation-middle-banner img{
+	max-height: 350px;
+
+}
+.pf-app-presentation-middle-banner{
+	z-index: 999;
+	top: 80px;
+}
+.pf-app-presentation-bottom{
+	background-color: #f5f6fa;
+	/*height: 530px;*/
+}
+.pf-app-img-left{
+	position: absolute;
+	top: 30px;
+	right: -50px;
+	bottom: 0px;
+}
+.pf-app-img-center{
+	position: absolute;
+	top: -20px;
+	left: 0px;
+	right: 0px;
+	z-index: 9999;
+
+}
+.pf-app-img-right{
+	position: absolute;
+	top: 50px;
+	left: -50px;
+	bottom: 0px;
+}
+.pf-video-content-text{
+	position: absolute;
+	top: 450px;
+	left: 0px;
+	right: 0px;
+	bottom: 300px;
+	z-index: 999;
+}
+.pf-download-text{
+	position: absolute;
+	top: 200px;
+	left: 50px;
+	right: 50px;
+	bottom: 200px;
+	z-index: 999;
+}
+.pf-quote{
+	background-color: #223047;
+}
+.pf-quote-content{
+	color: #00fff1;
+}
+.pf-app-add{
+	background-color: #f5f6fa;
+}
+.pf-add-ph1{
+	position: absolute;
+	right: -70px;
+	bottom: 0;
+	top: 0;
+	z-index: 999999;
+}
+.pf-add-ph1 img{
+	max-height: 400px;
+}
+.pf-add-ph2 img{
+	max-height: 350px;
+}
+.pf-add-ph2{
+	position: absolute;
+	top: 35px;
+	left: -15px;
+	bottom: 0;
+	z-index: 9;
+}
+.pf-add-content{
+	padding-top: 150px !important;
+}
+.pf-get-btn-today{
+	position: absolute;
+	top: -20px;
+	z-index: 999999;
+
+}
+.pf-details-list li a{
+	text-align: left !important;
+}
+.pf-footer{
+	background-color: #223047;
+	line-height: 80px;
+}
+.pf-rights{
+	color: #00fff1;
+}
